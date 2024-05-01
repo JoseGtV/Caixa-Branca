@@ -8,7 +8,7 @@ Exercício academico referente a qualidade de software, sendo abordado o teste d
 - Blocos catch estão vazios para lidar com exeções
 - A classe User realiza a conexão com o banco de dados e a autenticação do usuário.
 - O método verificarUsuario não é utilizada
-- String URL não especifica qual url está sendo passada, nesse caso é da do bando de dados
+- String URL não especifica qual url está sendo passada, nesse caso é da do bando de dad
 
 
 
