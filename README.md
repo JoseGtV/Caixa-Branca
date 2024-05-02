@@ -9,7 +9,7 @@ Exercício academico referente a qualidade de software, sendo abordado o teste d
 - A classe User realiza a conexão com o banco de dados e a autenticação do usuário.
 - O método verificarUsuario não é utilizada
 - String URL não especifica qual url está sendo passada, nesse caso é da do bando de dados
-  
+
 
 ![image](https://github.com/JoseGtV/Caixa-Branca/assets/115436576/07765667-44e9-4b95-8bd0-4c61de93abae)
 
