@@ -11,4 +11,15 @@ Exercício academico referente a qualidade de software, sendo abordado o teste d
 - String URL não especifica qual url está sendo passada, nesse caso é da do bando de dados
 
 
+![image](https://github.com/JoseGtV/Caixa-Branca/assets/115436576/07765667-44e9-4b95-8bd0-4c61de93abae)
+
+V(G) = (13 - 10) + 2 = 5
+
+- Caminho 1: 1-2-3-4-5-6-9-10
+- Caminho 2: 1-2-4-5-6-9-10
+- Caminho 3: 1-2-3-4-5-6-7-8-10
+- Caminho 4: 1-2-4-5-6-7-8-10
+- Caminho 5: 1-2-3-4-5-6-10
+ 
+
 
